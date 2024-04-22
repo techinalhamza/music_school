@@ -1,3 +1,11 @@
+import FeatureCourses from "@/components/FeatureCourses";
+import Hero from "@/components/Hero";
+
 export default function Home() {
-  return <h2 className="text-center text-3xl text-white">hello world</h2>;
+  return (
+    <>
+      <Hero />
+      <FeatureCourses />
+    </>
+  );
 }
