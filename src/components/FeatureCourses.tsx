@@ -2,7 +2,7 @@
 import Link from "next/link";
 import React from "react";
 import coursesData from "../data/data.json";
-import { BackgroundGradient } from "./background-gradient";
+import { BackgroundGradient } from "./ui/background-gradient";
 
 interface Course {
   id: number;
