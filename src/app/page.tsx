@@ -1,4 +1,4 @@
-import { Clients } from "@/components/Clients";
+import Clients from "@/components/Clients";
 import FeatureCourses from "@/components/FeatureCourses";
 import FeatureWebinars from "@/components/FeatureWebinars";
 import Hero from "@/components/Hero";

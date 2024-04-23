@@ -42,7 +42,7 @@ const people = [
   },
 ];
 
-export function Clients() {
+function Clients() {
   return (
     <div className="relative text-white ">
       <WavyBackground className="max-w-4xl mx-auto pb-">
@@ -57,3 +57,4 @@ export function Clients() {
     </div>
   );
 }
+export default Clients;
